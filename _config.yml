@@ -104,4 +104,4 @@ theme: geek
 deploy:
   type: git
   repository: git@github.com:Cxj-cool/Cxj-cool.github.io.git
-  branch: main
+  branch: page
