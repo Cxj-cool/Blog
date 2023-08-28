@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: HolyHigh's Blog
+subtitle: Test
 description: ''
-keywords:
-author: John Doe
-language: en
+keywords: Unity
+author: HolyHigh
+language: zh-CN
 timezone: ''
 
 # URL
@@ -103,5 +103,5 @@ theme: geek
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:Cxj-cool/Cxj-cool.github.io.git
+  repository: git@github.com:HolyHigh-X/HolyHigh-X.github.io.git
   branch: page
